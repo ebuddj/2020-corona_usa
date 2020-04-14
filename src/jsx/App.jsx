@@ -19,7 +19,7 @@ import './../styles/rc-slider-override.css';
 import * as d3 from 'd3';
 
 let interval, g, path;
-const projection = d3.geoAlbersUsa().scale(900).translate([350, 305])
+const projection = d3.geoAlbersUsa().scale(1200).translate([487.5, 325]);
 
 const languages = {
   'en': {
@@ -72,8 +72,8 @@ class App extends Component {
     });
   }
   drawMap() {
-    let width = 720;
-    let height = 720;
+    let width = 975;
+    let height = 700;
     
     let svg = d3.select('.' + style.map_container).append('svg').attr('width', width).attr('height', height);
     path = d3.geoPath().projection(projection);
