@@ -19,6 +19,7 @@ import './../styles/rc-slider-override.css';
 import * as d3 from 'd3';
 
 let interval, g, path;
+// https://observablehq.com/@d3/u-s-map
 const projection = d3.geoAlbersUsa().scale(1200).translate([487.5, 325]);
 
 const languages = {
