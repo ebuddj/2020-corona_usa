@@ -2,9 +2,9 @@
 
 **Live demo** https://ebuddj.github.io/2020-corona_usa/
 
-## Confirmed coronavirus cases in US states (EBU)
+## Confirmed coronavirus cases in USA (EBU)
 
-This map shows the number of confirmed cases of the novel coronavirus (COVID-19) in United States of America from January 22 until April 1 included. The circle radius is calculated with a logarithic scale.
+This map shows the number of confirmed cases of the novel coronavirus (COVID-19) in United States of America from January 22 until April 13 included. The circle radius is calculated with a logarithic scale.
 
 The data has been sourced from the World Health Organisation and was compiled by the Johns Hopkins University Center for Systems Science and Engineering. See, [here](https://github.com/CSSEGISandData/COVID-19).
 
