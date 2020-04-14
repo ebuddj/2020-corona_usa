@@ -18,9 +18,9 @@ More information about WHO situation reports can be accessed, [here](https://www
 * [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
 * [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
 * [JHU CCSE](https://github.com/CSSEGISandData/COVID-19)
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_geographic_centers_of_the_United_States)
 
 **EBU links**
-
 
 **Used by**
 
