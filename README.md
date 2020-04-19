@@ -22,8 +22,10 @@ More information about WHO situation reports can be accessed, [here](https://www
 
 **EBU links**
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/a2c2a9e220b99c8d6e37330c8498b6ba/2020_21018139), 2020-04-15
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/da4c77dd3d7ee68c14844e412e401649/2020_21018574), 2020-04-18
 
 **Used by**
+* RTCG/Montenegro on TVCG Sat
 * RTVS/Slovenia on TVS1 Slovenia
 
 ## How to use
