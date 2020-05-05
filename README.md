@@ -4,7 +4,7 @@
 
 ## Confirmed coronavirus cases in USA (EBU)
 
-This map shows the number of confirmed cases of the novel coronavirus (COVID-19) in United States of America from January 22 until April 22 included. The circle radius is calculated with a logarithic scale.
+This map shows the number of confirmed cases of the novel coronavirus (COVID-19) in United States of America from January 22 until May 5 included. The circle radius is calculated with a logarithic scale.
 
 The data has been sourced from the World Health Organisation and was compiled by the Johns Hopkins University Center for Systems Science and Engineering. See, [here](https://github.com/CSSEGISandData/COVID-19).
 
@@ -24,6 +24,7 @@ More information about WHO situation reports can be accessed, [here](https://www
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/a2c2a9e220b99c8d6e37330c8498b6ba/2020_21018139), 2020-04-15
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/da4c77dd3d7ee68c14844e412e401649/2020_21018574), 2020-04-18
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/e23e795546338f12eb8e0e8309069469/2020_21019228), 2020-04-23
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/a6dc7d3b997769e0da2d1a9d2246586c/2020_21021140), 2020-05-05
 
 **Used by**
 * RTCG/Montenegro on TVCG Sat
