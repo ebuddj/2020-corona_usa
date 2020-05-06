@@ -27,9 +27,10 @@ More information about WHO situation reports can be accessed, [here](https://www
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/a6dc7d3b997769e0da2d1a9d2246586c/2020_21021140), 2020-05-05
 
 **Used by**
+* FT/France on France 24 Arabic
+* HRT/Croatia no HTV1
 * RTCG/Montenegro on TVCG Sat
 * RTVS/Slovenia on TVS1 Slovenia
-* FT/France on France 24 Arabic
 
 ## How to use
 
