@@ -19,6 +19,7 @@ More information about WHO situation reports can be accessed, [here](https://www
 * [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
 * [JHU CCSE](https://github.com/CSSEGISandData/COVID-19)
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_geographic_centers_of_the_United_States)
+* [Infoplease](https://www.infoplease.com/us/states/state-population-by-rank)
 
 **EBU links**
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/a2c2a9e220b99c8d6e37330c8498b6ba/2020_21018139), 2020-04-15
