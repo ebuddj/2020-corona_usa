@@ -31,7 +31,6 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
     "d3": "^5.16.0",
     "rc-slider": "^9.3.1",
     "topojson": "^3.0.2",
