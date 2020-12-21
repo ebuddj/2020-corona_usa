@@ -4,7 +4,7 @@
 
 ## Confirmed coronavirus deaths in USA (EBU)
 
-This map shows the number of confirmed deaths of the novel coronavirus (COVID-19) in United States of America from June 1 until December 17 included.
+This map shows the number of confirmed deaths of the novel coronavirus (COVID-19) in United States of America from February 1 until December 20 included.
 
 The size of the circle reflects the number of Covid-19 related deaths per population in the past 14 days in the given state.
 
