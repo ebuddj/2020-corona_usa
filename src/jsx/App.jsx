@@ -146,11 +146,11 @@ class App extends Component {
           total_cases:state.total_cases + parseInt(d[this.state.dates[this.state.year_month_idx]] / 14)
         }));
         // Math.log2(Math.sqrt(d[this.state.dates[this.state.year_month_idx]] / Math.PI) + 1) * multiplier;
-        return Math.max(Math.sqrt(parseInt(d[this.state.dates[this.state.year_month_idx]] / areaInfo[d.Province_State].population * 100000)) * 8, 0);
+        return Math.sqrt(d[this.state.dates[this.state.year_month_idx]] / areaInfo[d.Province_State].population * 100000) * 8;
       });
     g.selectAll('text')
       .style('font-size', (d, i) => {
-        return Math.max(Math.sqrt(parseInt(d[this.state.dates[this.state.year_month_idx]] / areaInfo[d.Province_State].population * 100000)) * 7, 0) + 'px';
+        return (Math.sqrt(d[this.state.dates[this.state.year_month_idx]] / areaInfo[d.Province_State].population * 100000) * 7) + 'px';
       })
       .html((d, i) => {
         if (d[this.state.dates[this.state.year_month_idx]] > 0) {
@@ -215,7 +215,7 @@ class App extends Component {
         let date = datetime[0].split('/');
         let time = datetime[1];
         // this.text.html('' + date[1] + '.' + date[0] + '.' + date[2] + '20, ' + this.state.total_cases + ' ' + languages[l][type]);
-        this.text.html('' + date[1] + '.' + date[0] + '.' + date[2] + '20');
+        this.text.html('' + date[1] + '.' + date[0] + '.20' + date[2]);
       }
     }
     return (
