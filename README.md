@@ -29,6 +29,7 @@ More information about WHO situation reports can be accessed, [here](https://www
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/e23e795546338f12eb8e0e8309069469/2020_21019228), 2020-04-23
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/a6dc7d3b997769e0da2d1a9d2246586c/2020_21021140), 2020-05-05
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/3221584d027fa0455a1c46a5dba74bb3/2020_21055043), 2020-12-08
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/8679a3e078902cc7ec21659f314e6025/2021_21001749), 2021-01-12
 
 **Used by**
 * FT/France on France 24 Arabic
